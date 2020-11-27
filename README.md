@@ -2,8 +2,7 @@
 
 ![creating by deform-based global mapping](https://raw.githubusercontent.com/1900zyh/3D-Human-Body-Shape/master/docs/dg-h.png)
 
-
-The goal of this model is reshaping accurate and realistic 3D human bodies from anthropometric parameters 
+This is my Dissertation artificat the goal of this model is to create 3D that could reshape accurate and realistic 3D human bodies from anthropometric parameters 
 ```
 ### Different Mapping Methods
 1. global mapping
